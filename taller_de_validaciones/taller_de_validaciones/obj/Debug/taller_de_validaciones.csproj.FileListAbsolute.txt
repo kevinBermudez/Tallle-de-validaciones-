@@ -1,0 +1,28 @@
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe.config
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.pdb
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csprojResolveAssemblyReference.cache
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Form1.resources
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Properties.Resources.resources
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csproj.GenerateResource.Cache
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.exe
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.pdb
+F:\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe.config
+F:\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe
+F:\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.pdb
+F:\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csprojResolveAssemblyReference.cache
+F:\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Form1.resources
+F:\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Properties.Resources.resources
+F:\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csproj.GenerateResource.Cache
+F:\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.exe
+F:\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.pdb
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe.config
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.pdb
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csprojResolveAssemblyReference.cache
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Form1.resources
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Properties.Resources.resources
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csproj.GenerateResource.Cache
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csproj.CoreCompileInputs.cache
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.exe
+F:\U de A\Software II\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.pdb
